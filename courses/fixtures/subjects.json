@@ -1,0 +1,42 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "computer science",
+    "slug": "computer-science"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "ethical hacking",
+    "slug": "ethical-hacking"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "web developement",
+    "slug": "web-developement"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Artificial Intelligence",
+    "slug": "artificial-intelligence"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Blockchain",
+    "slug": "blockchain"
+  }
+}
+]
